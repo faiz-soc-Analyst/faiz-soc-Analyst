@@ -10,6 +10,7 @@
 ## 🏅 Certifications
 - ✅ **ISC2 CC** — Certified in Cybersecurity
 - ✅ **Skill India** — Network Basics
+- ✅ **Google Cybersecurity completed
 - 🔄 **TryHackMe** — SOC L1 Path (In Progress)
 - 🔄 **CompTIA Security+** (Upcoming)
 
